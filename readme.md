@@ -174,4 +174,4 @@ I recommend `chain ... as` instead of `chained` because it is more convenient. H
 ## License
 Read license.txt for more details.
 
-Copyright (c) 2017-2021 Kai-Hung Chen, Ward. All rights reserved.
+Copyright (c) 2021 Kai-Hung Chen, Ward. All rights reserved.
